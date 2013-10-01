@@ -1,0 +1,24 @@
+h1 {
+	color: blue;
+	background-color: gray;
+}
+
+/* This is a super fab note. */
+
+html {
+	color: red;
+	color: green;
+}
+
+p {
+	color: black;
+	border: 1px solid black;	
+}
+
+#zen-summary p {
+	color: teal;
+}
+
+h2, h3 {
+	color: red;
+}
